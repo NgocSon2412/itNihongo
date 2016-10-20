@@ -7,3 +7,5 @@ Open terminal and run command
 Rails : 4.2.6
 Ruby  : 2.3
 Sqlite3
+dasdasdas
+dsadsadas
